@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="google_maps_key">AIzaSyDqiievGhvvoQm7wF2r9HsLtbC0CxCOVw8</string>
+    <string-array name="cari_tempat">
+        <item>--Cari Tempat--</item>
+        <item>Restoran</item>
+    </string-array>
+</resources>
